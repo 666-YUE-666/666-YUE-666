@@ -2,8 +2,6 @@
 
 Name: Zhangle Chen
 
-Email: mc65350@um.edu.mo
-
 <!--
 **666-YUE-666/666-YUE-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
