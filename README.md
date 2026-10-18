@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Name:Zhangle Chen
+Name: Zhangle Chen
 
 Email: mc65350@um.edu.mo
 
